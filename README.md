@@ -1,11 +1,11 @@
 # Neural-Date-Translation
-### Aim: 
+## Aim: 
 Convert human readable dates into machine readable date format(YYYY-MM-DD)
-### Model:  
+## Model:  
 -i) Used Encoder-Decoder model for this task, both encoder and decoder are LSTM.
 -ii) Further used Encoder-Decoder with Attention Mechanism.
         
- ### Attention Architecture
+ ## Attention Architecture
  ![Screenshot (101)](https://user-images.githubusercontent.com/46930697/193477210-f9390762-a790-4563-b154-a95d68a7cc04.png)
 
  ## Results
